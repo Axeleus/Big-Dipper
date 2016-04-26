@@ -1,2 +1,2 @@
 # Big-Dipper
-WP Plugin from Wordpress Meet Up (OMSK)
+WP Plugin from WordPress MeetUp (OMSK)
